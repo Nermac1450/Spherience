@@ -7,8 +7,8 @@ Our main objective, as a didactic experience, is teaching about the history of t
 
 Due to the VR nature of our project, this git is full of beta apps and VR libraries and assets. 
 
-We have use diverse versions of Google VR assets for Unity to make this app. Also you have acces to a library of 360 non-stereoscopical photos used inside the app and with testing purposes. 
-There is also somo scripts in our proyect from really generous content creators, our system of sphere change and 360º images proyection systems are based on their work, endless and infinite gratitute!:
+We have used diverse versions of Google VR assets for Unity to make this app. Also you have access to a library of 360 non-stereoscopical photos used inside the app and with testing purposes. 
+There is also some scripts in our proyect from really generous content creators, our system of sphere change and 360º images proyection systems are based on their work, endless and infinite gratitute!:
 
 https://www.youtube.com/watch?v=2q9wc9Y35wg --Youtuber Nicholas Dingle--
 
@@ -21,4 +21,4 @@ We will be adding historical archives about the old airport and any extra inform
 
 This is a proyect with a Creative Commons license and you may follow it in order to respect the guidelines we marked while working on this exciting proyect.
 
-Hope you found you useful this repository for future VR proyects or historically related ones. Enjoy!
+Hope you found useful this repository for future VR proyects or historically related ones. Enjoy!
